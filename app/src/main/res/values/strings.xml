@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PdfViewer</string>
+    <string name="pdf_page">pdf page</string>
+</resources>
